@@ -13,4 +13,4 @@ Repository family:
 
 Future language implementations such as loom-java and loom-erlang are peers.
 
-See FlossWare engineering standard ADR-0024 for the contract-centric repository naming and layering convention.
+See FlossWare/standards ADR-0024 for the contract-centric repository naming and layering convention.
